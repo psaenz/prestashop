@@ -30,3 +30,6 @@ admin-dev/import/
 download/
 /img/*
 upload/
+/PrestaShop/PediaStore_NB_Metadata/nbproject/private/
+PrestaShop/PediaStore/cache/
+PrestaShop/PediaStore/log/

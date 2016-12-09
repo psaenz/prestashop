@@ -122,6 +122,7 @@
 		<module name="bpostshm"/>
 		<module name="brainify"/>
 		<module name="chronopost"/>
+		<module name="correos"/>
 		<module name="dotpay"/>
 		<module name="dpdfrance"/>
 		<module name="easymarketing"/>

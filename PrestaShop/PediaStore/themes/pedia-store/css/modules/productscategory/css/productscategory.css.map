@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIE,oCAAa,CACZ,aAAa,CAAE,GAAG,CAClB,sCAAC,CACA,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,IAAI,CACjB,KAAK,CCgC2B,OAAO,CD/BvC,4CAAO,CACN,KAAK,CC+B0B,OAAO,CD3BzC,sCAAe,CACd,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,IAAI,CACjB,OAAO,CAAE,WAAW,CACpB,eAAe,CAAE,IAAI,CACrB,0FACQ,CACP,eAAe,CAAE,IAAI",
+"sources": ["../../../../sass/modules/productscategory/css/productscategory.scss","../../../../sass/_theme_variables.scss"],
+"names": [],
+"file": "productscategory.css"
+}
